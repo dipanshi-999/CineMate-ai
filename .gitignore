@@ -1,0 +1,17 @@
+.venv/
+.env
+
+__pycache__/
+*.pyc
+
+.DS_Store
+
+chroma-db/
+vector store/
+
+uploaded_books/
+*.pdf
+
+.chroma/
+
+.vscode/
